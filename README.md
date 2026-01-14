@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Frontend Developer<br>
+🔭 I'm a Working to be a Web/WebApp Developer<br>
 
 # 💻 Tech Stack:
 
