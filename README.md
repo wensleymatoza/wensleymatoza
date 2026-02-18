@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Working to be a Web/WebApp Developer<br>
+🔭 I'm working to become a Web/WebApp Developer.
 
 # 💻 Tech Stack:
 
@@ -10,7 +10,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 
 ---
 
@@ -44,6 +43,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 ---
 
 ## ☁️ Deployment & Cloud
@@ -65,7 +65,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
-
 ---
 
 ## 🔌 Hardware / Academic / Hobby
@@ -75,9 +74,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wensleymatoza&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wensleymatoza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wensleymatoza&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=wensleymatoza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800&v=20260219)<br/>
+![](https://streak-stats.demolab.com?user=wensleymatoza&theme=dark&hide_border=false&cache_seconds=1800&v=20260219)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wensleymatoza&theme=dark&hide_border=false&count_private=true&layout=compact&cache_seconds=1800&v=20260219)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wensleymatoza&theme=radical&no-frame=false&no-bg=true&margin-w=4)
